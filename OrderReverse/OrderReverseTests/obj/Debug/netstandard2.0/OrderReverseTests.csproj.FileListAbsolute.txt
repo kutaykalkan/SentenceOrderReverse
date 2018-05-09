@@ -1,0 +1,9 @@
+C:\Users\kutay\OneDrive\Projects\VSProjects\Interviews\CleverDevices\OrderReverse\OrderReverseTests\bin\Debug\netstandard2.0\OrderReverseTests.deps.json
+C:\Users\kutay\OneDrive\Projects\VSProjects\Interviews\CleverDevices\OrderReverse\OrderReverseTests\bin\Debug\netstandard2.0\OrderReverseTests.dll
+C:\Users\kutay\OneDrive\Projects\VSProjects\Interviews\CleverDevices\OrderReverse\OrderReverseTests\bin\Debug\netstandard2.0\OrderReverseTests.pdb
+C:\Users\kutay\OneDrive\Projects\VSProjects\Interviews\CleverDevices\OrderReverse\OrderReverseTests\obj\Debug\netstandard2.0\OrderReverseTests.csprojResolveAssemblyReference.cache
+C:\Users\kutay\OneDrive\Projects\VSProjects\Interviews\CleverDevices\OrderReverse\OrderReverseTests\obj\Debug\netstandard2.0\OrderReverseTests.csproj.CoreCompileInputs.cache
+C:\Users\kutay\OneDrive\Projects\VSProjects\Interviews\CleverDevices\OrderReverse\OrderReverseTests\obj\Debug\netstandard2.0\OrderReverseTests.AssemblyInfoInputs.cache
+C:\Users\kutay\OneDrive\Projects\VSProjects\Interviews\CleverDevices\OrderReverse\OrderReverseTests\obj\Debug\netstandard2.0\OrderReverseTests.AssemblyInfo.cs
+C:\Users\kutay\OneDrive\Projects\VSProjects\Interviews\CleverDevices\OrderReverse\OrderReverseTests\obj\Debug\netstandard2.0\OrderReverseTests.dll
+C:\Users\kutay\OneDrive\Projects\VSProjects\Interviews\CleverDevices\OrderReverse\OrderReverseTests\obj\Debug\netstandard2.0\OrderReverseTests.pdb

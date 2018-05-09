@@ -1,0 +1,11 @@
+C:\Users\kutay\OneDrive\Projects\VSProjects\Interviews\CleverDevices\OrderReverse\OrderReverse\bin\Debug\netcoreapp2.0\OrderReverse.deps.json
+C:\Users\kutay\OneDrive\Projects\VSProjects\Interviews\CleverDevices\OrderReverse\OrderReverse\bin\Debug\netcoreapp2.0\OrderReverse.runtimeconfig.json
+C:\Users\kutay\OneDrive\Projects\VSProjects\Interviews\CleverDevices\OrderReverse\OrderReverse\bin\Debug\netcoreapp2.0\OrderReverse.runtimeconfig.dev.json
+C:\Users\kutay\OneDrive\Projects\VSProjects\Interviews\CleverDevices\OrderReverse\OrderReverse\bin\Debug\netcoreapp2.0\OrderReverse.dll
+C:\Users\kutay\OneDrive\Projects\VSProjects\Interviews\CleverDevices\OrderReverse\OrderReverse\bin\Debug\netcoreapp2.0\OrderReverse.pdb
+C:\Users\kutay\OneDrive\Projects\VSProjects\Interviews\CleverDevices\OrderReverse\OrderReverse\obj\Debug\netcoreapp2.0\OrderReverse.csproj.CoreCompileInputs.cache
+C:\Users\kutay\OneDrive\Projects\VSProjects\Interviews\CleverDevices\OrderReverse\OrderReverse\obj\Debug\netcoreapp2.0\OrderReverse.AssemblyInfoInputs.cache
+C:\Users\kutay\OneDrive\Projects\VSProjects\Interviews\CleverDevices\OrderReverse\OrderReverse\obj\Debug\netcoreapp2.0\OrderReverse.AssemblyInfo.cs
+C:\Users\kutay\OneDrive\Projects\VSProjects\Interviews\CleverDevices\OrderReverse\OrderReverse\obj\Debug\netcoreapp2.0\OrderReverse.dll
+C:\Users\kutay\OneDrive\Projects\VSProjects\Interviews\CleverDevices\OrderReverse\OrderReverse\obj\Debug\netcoreapp2.0\OrderReverse.pdb
+C:\Users\kutay\OneDrive\Projects\VSProjects\Interviews\CleverDevices\OrderReverse\OrderReverse\obj\Debug\netcoreapp2.0\OrderReverse.csprojResolveAssemblyReference.cache

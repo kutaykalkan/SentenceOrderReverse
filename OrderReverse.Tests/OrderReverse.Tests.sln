@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderReverse.Tests", "OrderReverse.Tests\OrderReverse.Tests.csproj", "{21D48609-443E-413A-B8EB-33C91C68F8ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21D48609-443E-413A-B8EB-33C91C68F8ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21D48609-443E-413A-B8EB-33C91C68F8ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21D48609-443E-413A-B8EB-33C91C68F8ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21D48609-443E-413A-B8EB-33C91C68F8ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D3FD681-113F-46BF-B172-409487E88BC5}
+	EndGlobalSection
+EndGlobal
